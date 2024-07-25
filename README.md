@@ -11,7 +11,7 @@ git clone  https://github.com/zhoushen1/MEASNet
 cd MEASNet
 ```
 2. Create conda environment
-The Conda environment used can be recreated using the env.yml file
+The Conda environment used can be recreated using the ```env.yml``` file
 ```
 conda env create -f env.yml
 ```
