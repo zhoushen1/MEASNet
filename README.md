@@ -41,3 +41,8 @@ After preparing the testing data in ```test/``` directory.use
 ```
 python test.py
 ```
+# Contact:
+    Don't hesitate to contact me if you meet any problems when using this code.
+    Zhou Shen
+    Faculty of Information Engineering and Automation Kunming University of Science and Technology                                                           
+    Email: zhoushennn@163.com
