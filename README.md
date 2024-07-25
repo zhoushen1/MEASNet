@@ -28,7 +28,7 @@ Enhance: [LOL-V1](https://daooshee.github.io/BMVC2018website/)
 
 The training data should be placed in ``` data/Train/{task_name}```.
 
-The testing data should be placed in ```data/test/{task_name}``` . 
+The testing data should be placed in ```data/test/{task_name}```. 
 
 ## 2.Training
 After preparing the training data in ```data/``` directory, use 
