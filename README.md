@@ -37,10 +37,13 @@ python train.py
 ```
 ## 3.Testing
 
-After preparing the testing data in ```test/``` directory.use
+After preparing the testing data in ```test/``` directory, use
 ```
 python test.py
 ```
+
+## Results
+You can download visual results from (Link：https://pan.baidu.com/s/1GHmqP9himlZ_yo9h2AYCCQ?pwd=o2kp code：o2kp)
 # Contact:
     Don't hesitate to contact me if you meet any problems when using this code.
     Zhou Shen
