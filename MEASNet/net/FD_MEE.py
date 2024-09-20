@@ -217,6 +217,9 @@ class MEE(nn.Module):
         x = self.block(self.norm_1(x)) + x
         return x
 
+## See More Details: Efficient Image Super-Resolution by Experts Mining
+## Eduard Zamfir, Zongwei Wu, Nancy Mehta, Yulun Zhang, Radu Timofte
+## https://arxiv.org/abs/2402.03412
 class FD_MEE(nn.Module):
     def __init__(self,
                  in_ch: int,
