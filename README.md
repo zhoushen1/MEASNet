@@ -1,7 +1,7 @@
 # <p align=center> Multi-Expert Adaptive Selection: Task-Balancing for All-in-One Image Restoration</p>
 
 ## Continuously updating!  
-Note: Still under review, this code repository is not yet fully complete.
+This work was accepted by IEEE Transactions on Circuits and Systems for Video Technology.
 
 ## 1.Quick Start
 
