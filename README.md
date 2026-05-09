@@ -48,9 +48,8 @@ python test.py
 ## Results
 You can download visual results from (Link：https://pan.baidu.com/s/1GHmqP9himlZ_yo9h2AYCCQ?pwd=o2kp code：o2kp)
 # Contact:
-    Don't hesitate to contact me if you meet any problems when using this code.
     Zhou Shen
-    Faculty of Information Engineering and Automation Kunming University of Science and Technology                                                           
+    School of Computer Science and Engineering, Southeast University                                                        
     Email: zhoushennn@163.com
 
 ## Thanks
