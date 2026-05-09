@@ -50,7 +50,7 @@ You can download visual results from (Link：https://pan.baidu.com/s/1GHmqP9himl
 # Contact:
     Zhou Shen
     School of Computer Science and Engineering, Southeast University                                                        
-    Email: zhoushennn@163.com
+    zhoushennn@163.com
 
 ## Thanks
 - See More Details: Efficient Image Super-Resolution by Experts Mining, ICML 2024. [Paper](https://arxiv.org/abs/2402.03412) | [Code](https://github.com/eduardzamfir/seemoredetails)
